@@ -49,9 +49,10 @@
 ## 演示
 程序使用演示（基于sai2）
 
-
 **1.旋转轮盘演示**
+
 ![演示1](https://github.com/kongbaiku/The-Wheel/blob/main/README/1.gif)
 
 **2.拖曳轮盘演示**
+
 ![演示2](https://github.com/kongbaiku/The-Wheel/blob/main/README/2.gif)
