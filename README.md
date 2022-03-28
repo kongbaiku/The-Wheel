@@ -47,6 +47,8 @@
 
 ## 下载
 
+[GitHub下载](https://github.com/kongbaiku/The-Wheel/releases)
+
 ## 其他
 图标选择页面是基于[飞扬青云](https://github.com/feiyangqingyun/QWidgetDemo)大神QWidgetDemo中的iconhelper修改而成，在此基础上添加了图标手动换色功能，感谢大神对于Qt的贡献。
 
