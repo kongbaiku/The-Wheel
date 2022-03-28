@@ -39,7 +39,7 @@
 
 >没错，『额外工具环』拖动调用的操作逻辑也是抄的，就是电脑版sketchbook左下角那个可能大家都不常用的边角工具，要加操作逻辑时我第一时间想到的就是这玩意，虽然因为位置原因，我电磁笔都不爱往那去，导致使用次数屈指可数，但操作逻辑是真的挺有意思的，导致记忆犹新。
 
-![图片4](https://github.com/kongbaiku/The-Wheel/blob/main/README/4.png)
+![图片4](https://s3.bmp.ovh/imgs/2022/03/f600518776270abe.png)
 
 ## 教程
 
@@ -59,16 +59,16 @@
 
 **1.旋转轮盘演示**
 
-![演示1](https://github.com/kongbaiku/The-Wheel/blob/main/README/1.gif)
+![演示1](https://s3.bmp.ovh/imgs/2022/03/f01361379dce5d02.gif)
 
 **2.拖曳轮盘演示**
 
-![演示2](https://github.com/kongbaiku/The-Wheel/blob/main/README/2.gif)
+![演示2](https://s3.bmp.ovh/imgs/2022/03/2c323b0e1bc12ab5.gif)
 
 **3.进度环轮盘演示**
 
-![演示3](https://github.com/kongbaiku/The-Wheel/blob/main/README/3.gif)
+![演示3](https://s3.bmp.ovh/imgs/2022/03/a289e72f7de5ac21.gif)
 
 **4.自定义轮盘演示**
 
-![演示4](https://github.com/kongbaiku/The-Wheel/blob/main/README/4.gif)
+![演示4](https://s3.bmp.ovh/imgs/2022/03/8e46165f1aba0647.gif)
